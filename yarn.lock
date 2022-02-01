@@ -5658,6 +5658,13 @@ clean-css@^4.1.11, clean-css@^4.2.1, clean-css@^4.2.3:
   dependencies:
     source-map "~0.6.0"
 
+clean-css@^5.2.4:
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-5.2.4.tgz#982b058f8581adb2ae062520808fb2429bd487a4"
+  integrity sha512-nKseG8wCzEuji/4yrgM/5cthL9oTDc5UOQyFMvW/Q53oP6gLH690o1NbuTh6Y18nujr7BxlsFuS7gXLnLzKJGg==
+  dependencies:
+    source-map "~0.6.0"
+
 clean-deep@^3.0.2:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/clean-deep/-/clean-deep-3.4.0.tgz#c465c4de1003ae13a1a859e6c69366ab96069f75"
